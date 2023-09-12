@@ -1,0 +1,1016 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+  
+  @import url('https://fonts.googleapis.com/css2?family=Rajdhani&family=Raleway:wght@400;500&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Rajdhani&family=Raleway:wght@400;500&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&family=Montserrat:wght@300&family=Nunito:wght@300&family=Rajdhani&family=Raleway:wght@400;500;600&display=swap');
+  
+  @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&family=Montserrat:wght@300&family=Nunito:wght@300&family=Oswald:wght@500;700&family=Rajdhani&family=Raleway:wght@400;500;600&family=Roboto+Slab:wght@100&display=swap');
+  
+  @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&family=Montserrat:wght@300&family=Nunito:wght@300&family=Oswald:wght@300;500;700&family=Rajdhani&family=Raleway:wght@400;500;600&family=Roboto+Slab:wght@100&display=swap');
+ 
+  @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&family=Montserrat:wght@300&family=Nunito:wght@300&family=Rajdhani&family=Raleway:wght@400;500;600&display=swap');
+.hid{
+    overflow: hidden;
+}
+@media screen and (max-width:600px){
+    .ab{
+        flex-direction: column;
+        display: flex;
+    }
+}
+
+
+@media screen and (max-width:600px){
+    .ca ul{
+        flex-direction: column;
+        display: flex;
+        margin-left: -300px;
+    }
+}
+@media screen and (max-width:600px){
+    .content1{
+        flex-direction: column;
+        display: flex;
+    }
+}
+@media screen and (max-width:600px){
+    .icon{
+        flex-direction: column;
+        display: flex;
+    }
+}
+
+
+
+  
+  .ab
+{
+    height: 50px;
+     font-size:40px;
+     font-weight:900;
+     background-color:aliceblue;
+}
+
+.ae{
+    float:left; 
+    
+}
+.ae a{
+    text-decoration: none;
+    color: rgb(65, 62, 62);
+    font-family: serif;
+    font-size:xx-large;
+
+}
+.ba
+{
+    padding-top: 20px;
+    height: 50px;
+     font-size:20px;
+     font-weight:900;
+     display: flex;
+     
+}
+.ca{
+    float: right;
+    margin-left: 290px;
+    font-family: monospace;
+    font-size:smaller
+}
+
+.ca ul{
+    display:flex;
+
+}
+.ca ul li{
+    padding-left:75px;
+    
+    
+}
+.ca ul li a{
+    text-decoration: none;
+    
+}
+.ea img{
+    height: 70px;
+    width: 70px;
+    
+    
+}
+.ea{
+    margin-left: -130px;
+}
+/* ------------------------------------------------------------------ */
+.content1{
+    display: flex;
+    overflow: hidden;
+
+}
+
+.para{
+    margin-left: 65px;
+    margin-top: 100px;
+    width: 600px;
+}
+.para h3{
+    font-size:22px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-family: 'Rajdhani', sans-serif;
+}
+.para h1{
+    font-size:50px;
+}
+.para span{
+    font-family: 'Rajdhani', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-size:21px;
+
+}
+.para p{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Rajdhani', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-size:20px;
+}
+.para button{
+    height: 60px;
+    width: 200px;
+    border-radius:10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.baker{
+    background-image: url(baker\ man.jpg);
+    width:600px;
+    height: 550px;
+    background-size: 100% 100%;
+    border-top-left-radius: 600px;
+    border-bottom-left-radius:600px;
+    /* margin-left: 100px; */
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 80px;
+    
+}
+@media screen and (max-width:600px){
+    .baked img{
+        border-top-left-radius:600px ;
+        border-bottom-left-radius:600px;
+       
+    }
+}
+
+/* ---------------------------------------------------------- */
+
+.ani{
+    margin-top: 150px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Rajdhani', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-size: 55px;
+
+}
+.icon{
+    display: flex;
+    
+}
+.baked{
+    margin-left: 30px;
+    text-align: center;
+}
+.bread{
+    margin-left: 30px;
+    text-align: center;
+}
+.ins{
+    margin-left: 30px;
+    text-align: center;
+}
+.del{
+    margin-left: 30px;
+    text-align: center;
+}
+.box{
+    margin-left: 30px;
+    text-align: center;
+}
+.our{
+    margin-top: 5opx;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+font-size: 70px;
+font-weight: 900;
+
+}
+.ro p{
+    font-size: 30px;
+    font-weight: 300;
+    text-align: center
+}
+.img1{
+    display: flex;
+  overflow: hidden;
+    
+}
+@media screen and (max-width:600px){
+    .img1{
+        flex-direction: column;
+       
+    }
+}
+.a1{
+    margin-left: 20px;
+
+}
+.a2{
+    margin-left: 20px;
+
+}
+.a3{
+    margin-left: 20px;
+
+}
+.a4{
+    margin-left: 20px;
+
+}
+/* ----------------------------------------------------------------- */
+
+.baker2{
+    background-image: url(baker\ man2.jpg);
+    width:400px;
+    height: 400px;
+    background-size: 100% 100%;
+    border-radius: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 210px;
+    
+}
+ .sam
+ {
+    display: flex;
+    margin-left: 50px;
+ }
+ @media screen and (max-width:600px){
+    .sam{
+        flex-direction: column;
+    }
+}
+@media screen and (max-width:600px){
+    .baker2{
+        margin-left:100px;
+        margin-top: 30px;
+       
+    }
+}
+ .pr h1{
+    margin-left: 20px;
+ }
+ .pr p{
+    margin-left: 20px;
+ }
+
+
+ .but1{
+    display: flex;
+    
+ }
+
+ .op button{
+    width: 200px;
+    height: 50px;
+    border-left:5px ;
+    border-right: 5px;
+    border-top: 5px;
+    background-color:#ffffff;
+    margin-left: 20px;
+ }
+ .ov button{
+    width: 200px;
+    height: 50px;
+    border-left:5px ;
+    border-right: 5px;
+    border-top: 5px;
+    background-color:#ffffff;
+    margin-left:30px;
+ }
+ 
+ .but2{ 
+    display: flex;
+    margin-top: 20px;
+ }
+ .oh button{
+    width: 200px;
+    height: 50px;
+    border-left:5px ;
+    border-right: 5px;
+    border-top: 5px;
+    background-color:#ffffff;
+    margin-left: 20px;
+
+
+ }
+ .ou button{
+    width: 200px;
+    height: 50px;
+    border-left:5px ;
+    border-right: 5px;
+    border-top: 5px;
+    background-color:#ffffff;
+    margin-left:30px;
+
+ }
+ .but3{
+    display: flex;
+    margin-top: 20px;
+
+ }
+ .in button{
+    width: 200px;
+    height: 50px;
+    border-left:5px ;
+    border-right: 5px;
+    border-top: 5px;
+    background-color:#ffffff;
+    margin-left: 20px;
+
+
+ }
+ .ob button{
+    width: 200px;
+    height: 50px;
+    border-left:5px ;
+    border-right: 5px;
+    border-top: 5px;
+    background-color:#ffffff;
+    margin-left:30px;
+
+ }
+/* ---------------------------------- */
+
+.zet{
+    position: relative;
+    margin-top: 150px;
+    padding-top: 85px;
+    background-color:rgb(235, 227, 215);
+    height: 900px;
+}
+
+.zet1{
+    position:relative ;
+    z-index:1 ;
+    border-radius: 25px;
+    background: #dbdcdc;
+    width: 500px;
+    height:400px;
+    margin-top: 70px;
+    margin-left: 80px;
+    text-align: center;
+    padding-top: 40px;
+    background-image: url(baker-wearing-apron-kneading-dough-kitchen-counter-standing-against-brick-wall.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+.zet2{
+    position:absolute;
+    z-index: 2;
+    border-radius: 25px;
+    background:rgb(236, 233, 228);
+    width: 630px;
+    height:450px;
+    margin-top: -550px;
+    margin-left: 410px;
+    padding-left: 40px;
+
+    }
+    .zet2 button{
+        height: 60px;
+        width: 200px;
+        border-radius:10px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        margin-top: 70px;
+
+        
+
+
+    }
+    .zet2 button:hover{
+        background-color: black;
+        color: white;
+    }
+
+    
+
+
+.zet3{
+    position:absolute ;
+    z-index: 3;
+    border-radius: 25px;
+    background: #dbdcdc;
+    width: 500px;
+    height:400px;
+    margin-top: -70px;
+    margin-left: 320px;
+    text-align: center;
+    padding-top: 40px;
+    background-image: url(fresh-tasty-cheeseburger-isolated-white-background-delicious-big-sandwich.jpg);
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+
+}
+
+/* ----------------------------------------- */
+
+.bakr3{
+    background-image: url(paper-bag-with-bread-basket-pastry.jpg);
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    width: 670px;
+    height:500px;
+
+    border-top-right-radius: 600px;
+     border-bottom-right-radius: 600px;
+}
+.bk{
+    display: flex;
+    overflow: hidden;
+    margin-top: 70px;
+}
+@media screen and (max-width:600px){
+    .bk{
+      flex-direction: column;
+       
+    }
+}
+.bk1{
+    margin-left: 80px;
+    margin-top: 10px;
+    width: 600px;
+    overflow: hidden;
+
+    
+   
+}
+.bk1 h1{
+    
+}
+.bk1 button{
+    height: 60px;
+    width: 200px;
+    border-radius:10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 20px;
+
+}
+.bk1 button:hover{
+    background-color: black;
+    color: white;
+ 
+}
+/* ----------------------------------------------------------- */
+
+
+.th1{
+    border-radius: 50px;
+    background:white;
+    
+                 width: 250px;
+                 height: 410px;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 10px;
+}
+.th2{
+    width:200px ;
+    height: 200px;
+    background-image: url(croissants-wooden-cutting-board.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 200px;
+    margin-left: 20px;
+
+}
+.th3{
+    border-radius: 50px;
+    background:white;
+
+                 width: 250px;
+                 height: 410px;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 10px;
+  margin-left: 20px;
+
+}
+.th4{
+    width:200px ;
+    height: 200px;
+    background-image: url(chocolate-brownie-cake-piece-stack-plate-homemade-pastries.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 200px;
+    margin-left: 20px;
+
+}
+.th5{
+    border-radius: 50px;
+    background:white;
+
+                 width: 250px;
+                 height: 410px;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.th6{
+    width:200px ;
+    height: 200px;
+    background-image: url(close-up-view-delicious-cinnamon-rolls.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 200px;
+    margin-left: 20px;
+
+}
+.th7{
+    border-radius: 50px;
+    background:white;
+
+                 width: 250px;
+                 height: 410px;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.th8{
+    width:200px ;
+    height: 200px;
+    background-image: url(turkish\ bagels.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 200px;
+    margin-left: 20px;
+    
+}
+.th50{
+    display: flex;
+    margin-left: 50px;
+}
+@media screen and (max-width:600px){
+    .th50{
+        flex-direction: column;
+       
+    }
+}
+/* ------------------------------------------------ */
+@media screen and (max-width:600px){
+    .th51{
+      flex-direction: column;
+       
+    }
+}
+.th9{
+    border-radius: 50px;
+    background:white;
+
+                 width: 250px;
+                 height: 410px;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 10px;
+}
+.th10{
+    width:200px ;
+    height: 200px;
+    background-image: url(donuts-gebce7367f_1280.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 200px;
+    margin-left: 20px;
+
+}
+.th11{
+    border-radius: 50px;
+    background:white;
+    
+                 width: 250px;
+                 height: 410px;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 10px;
+  margin-left: 20px;
+
+}
+.th12{
+    width:200px ;
+    height: 200px;
+    background-image: url(tart-g671390785_1280.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 200px;
+    margin-left: 20px;
+
+}
+.th13{
+    border-radius: 50px;
+    background:white;
+
+                 width: 250px;
+                 height: 410px;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.th14{
+    width:200px ;
+    height: 200px;
+    background-image: url(dessert-gebc008782_1280.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 200px;
+    margin-left: 20px;
+
+}
+.th15{
+    border-radius: 50px;
+    background:white;
+
+                 width: 250px;
+                 height: 410px;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.th16{
+    width:200px ;
+    height: 200px;
+    background-image: url(easter-gd20879c0d_1280.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 200px;
+    margin-left: 20px;
+    
+}
+.th51{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 40px;
+
+}
+.th52{
+    background-color: rgb(154, 148, 137);
+    height: 1900px;
+    width: 1150px;
+    padding-top: 50px;
+    margin-top:70px;
+  
+}
+.th52 h1{
+    padding-left: 320px;
+    color: white;
+    font-size: 60px;
+    margin-top: -40px;
+}
+/* -------------------------------------------------------------- */
+
+.th53{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 50px;
+
+
+}
+.th53 b{
+    font-size: 50px;
+    color: #ffffff;
+
+}
+.th17{
+    display: flex;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.th18{
+    border-radius: 18px;
+    background:white;
+
+width:340px;
+height: 250px;
+}
+
+.th19 h5{
+    font-size: 15px;
+
+}
+.th19 h2{
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+.th20{
+    margin-top: 30px;
+}
+/* ----------------------------------------- */
+.th21{
+    border-radius: 18px;
+    background:white;
+
+width:340px;
+height: 250px;
+margin-left: 40px;
+
+}
+
+.th21 h5{
+    font-size: 15px;
+
+}
+.th21 h2{
+    font-size: 20px;
+    letter-spacing: 5px;
+
+}
+.th22{
+    margin-top: 30px;
+}
+
+/* ----------------------------------------------- */
+
+.th23{
+    border-radius: 18px;
+    background:white;
+
+width:340px;
+height: 250px;
+margin-left: 40px;
+}
+
+.th23 h5{
+    font-size: 15px;
+
+}
+.th23 h2{
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+.th24{
+    margin-top: 30px;
+}
+/* --------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------- */
+.th54{
+    text-align: center;
+
+}
+.th25{
+    display: flex;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.th26{
+    border-radius: 18px;
+    background:white;
+
+width:340px;
+height: 250px;
+}
+
+.th27 h5{
+    font-size: 15px;
+
+}
+.th27 h2{
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+.th25{
+    margin-top: 30px;
+}
+.th28{
+    margin-top: 30px;
+}
+/* ----------------------------------------- */
+.th29{
+    border-radius: 18px;
+    background:white;
+
+width:340px;
+height: 250px;
+margin-left: 40px;
+
+}
+
+.th29 h5{
+    font-size: 15px;
+
+}
+.th29 h2{
+    font-size: 20px;
+    letter-spacing: 5px;
+
+}
+.th30{
+    margin-top: 30px;
+}
+
+/* ----------------------------------------------- */
+
+.th31{
+    border-radius: 18px;
+    background:white;
+
+width:340px;
+height: 250px;
+margin-left: 40px;
+}
+
+.th31 h5{
+    font-size: 15px;
+
+}
+.th31 h2{
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+.th32{
+    margin-top: 30px;
+}
+/* --------------------------------------- */
+.dd2{
+    display: flex;
+  overflow: hidden;
+  margin-top: 40px;
+  margin-left: 12px;
+    
+}
+.dd4{
+    margin-left: 20px;
+
+}
+.dd4 h2{
+    margin-left: 20px;
+
+}
+
+.dd4 h5{
+    margin-left: 20px;
+    font-size: 15px;
+
+}
+.dd6 h2{
+    margin-left: 20px;
+
+}
+.dd6 h5{
+    margin-left: 20px;
+    font-size: 15px;
+
+}
+.dd7{
+    margin-left: 20px;
+
+}
+.dd8 h2{
+     margin-left: 20px;
+}
+.dd8 h5{
+    margin-left: 20px;
+    font-size: 15px;
+
+}
+.dd9{
+    margin-left: 20px;
+
+}
+.ta{
+    margin-left: 50px;
+    margin-top: 400px
+}
+.ta input{
+    width:300px;
+    height: 20px;
+}
+.ta button{
+    width: 70px;
+    height: 25px;
+    
+}
+
+
+.icon1234{
+    display:flex ;
+    margin-left: 50px;
+    margin-top: 40px;
+
+}
+.ic1{
+    padding-left: 20px;
+}
+.ic2{
+    padding-left: 20px;
+}
+.ic3{
+    padding-left: 20px;
+}
+.ic4{
+    padding-left: 20px;
+}
+.end{
+    margin-left: 800px;
+    margin-top: -190px;
+}
+.end p{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+    color:rgb(230, 211, 185);
+}
+.end span{
+    font-family:italic;
+    font-size: 20px;
+}
+
+/* --------------------------------------------------------- */
+.bkend{
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 40px;
+}
+
+.ans{
+  display: flex;
+
+}
+
+.ans1{
+    margin-top: 70px;
+    margin-left: 100px;
+    color: #ffffff;
+}
+.ans2{
+    margin-top: 70px;
+    margin-left: 100px;
+    color: #ffffff;
+
+}
+
+.ans3{
+    margin-top: 70px;
+    margin-left: 100px;
+    color: #ffffff;
+
+}
+
+.ans4{
+    margin-top: 70px;
+    margin-left: 100px;
+    color: #ffffff;
+
+}
+/* -------------------------------------------------------------- */
+.tham{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 30px;
+}
+
+.ic11{
+    color: bisque;
+}
+.ic12{
+    color: bisque;
+
+}
+.ic13{
+    color: bisque;
+
+}
+
+.ic12{
+    margin-left: 30px;
+}
+.ic13{
+    margin-left: 30px;
+}
+
+.boxend{
+    background-color: black;
+    width: 1150px;
+    height: 450px;
+}
+
+
+
